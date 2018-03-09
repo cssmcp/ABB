@@ -34,3 +34,5 @@ Declare Sub TestKofra
 Declare Sub UpdateSubId
 
 dim ABBGithub as integer
+
+new line
